@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Quick Start
 The following script will choose modules to solve the task of ALFworld:
 ```bash
-cd meta-agent-alfworld
+cd alfworld
 sh run.sh or 
 python3 alfworld_run.py \
     --planning deps\
