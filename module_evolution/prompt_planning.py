@@ -308,7 +308,7 @@ sub-task 1: {{'description': 'First I need to find and take a lettuce', 'reasoni
 sub-task 2: {{'description': 'Next, I need to clean it with sinkbasin', 'reasoning instruction': 'Clean the lettuce with sinkbasin', 'tool use instruction': None}}
 sub-task 3: {{'description': 'Finally, I need to put it in diningtable', 'reasoning instruction': 'Go to diningtable and put the lettuce in diningtable', 'tool use instruction': None}}
 
-# Planning module Template:
+# Planning Module Template:
 ```python
 import re
 import ast
